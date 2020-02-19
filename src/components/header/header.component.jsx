@@ -4,7 +4,6 @@ import { Link } from 'react-router-dom'
 import { ReactComponent as Logo } from '../../assets/crown.svg'
 
 import './header.styles.scss'
-import SignIn from '../sign-in/sign-in.component'
 
 import { auth } from '../../firebase/firebase.utils'
 
